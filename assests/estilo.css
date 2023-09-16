@@ -18,12 +18,26 @@ body{
     margin-top: 0;
 }
 .sessao1{
-    background-color: aqua;
     height: 1000px;
+    background: aqua;
+    
 }
 .sessoa2{
     background-color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
 }
 .sessoa3{
     background-color: aquamarine;
+}
+.caixoes{
+    display: flex;
+    align-items: center;
+    width: 450px;
+    height: auto;
+    padding: 0;
+    margin: 0;
+    float: left;
 }
