@@ -1,0 +1,19 @@
+body{
+    background-color: aqua;
+}
+.logo{
+    width: auto;
+    text-align: center;
+    margin-right: 0%;
+}
+.inicio{
+    margin-top: 10%;
+    position: absolute;
+    left: 0;
+    right: 0;
+    text-align: center;
+}
+.fonte_sub{
+    font-size: 50px;
+    margin-top: 0;
+}
