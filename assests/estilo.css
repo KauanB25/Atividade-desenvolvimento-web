@@ -22,22 +22,31 @@ body{
     background: aqua;
     
 }
-.sessoa2{
-    background-color: white;
-    display: flex;
+.sessao2{
+    /*flex-direction: column;
+    display: flex;*/
     align-items: center;
-    flex-direction: column;
+    margin-bottom: 10%;
+    height: 1000px;
+    width: auto;
+    background-color: white;
+}
+.sessao3{
+    background-color: aquamarine;
+    margin-top: 30%;
+    height: auto;
+    width: auto;
+
 
 }
-.sessoa3{
-    background-color: aquamarine;
-}
 .caixoes{
-    display: flex;
     align-items: center;
     width: 450px;
     height: auto;
-    padding: 0;
-    margin: 0;
+    margin: 10px;
+    /*float: left;*/
     float: left;
+    flex-wrap: wrap;
+    margin-bottom: 100px;
+    
 }
