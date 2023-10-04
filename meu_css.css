@@ -1,0 +1,35 @@
+.ajuste_imagem{
+    height: 100%;
+    width: auto;
+    object-fit: cover;
+    align-self: center;
+    justify-self: center;
+    display: flex;
+
+}
+
+.backgroud{
+    background-color: grey;
+}
+
+.centro{
+    text-align: center;
+}
+.cadastro{
+    margin-top: 5%;
+    margin-left: 2%;
+}
+
+.logo{
+    height: 200px;
+    position: relative;
+    width: 100%;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+.ajuste_card{
+    width: 30%;
+}
+
