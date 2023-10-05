@@ -33,3 +33,19 @@
     width: 30%;
 }
 
+.sessao3{
+    display: flex;
+    text-align: center;
+    
+    height: 80vh;
+}
+.sessao4{
+    display: flex;
+    justify-content:baseline ;
+    align-items:baseline;
+    height: 80vh;
+}
+
+.divisao_div{
+    height: 50%;
+}
