@@ -35,9 +35,8 @@
 
 .sessao3{
     display: flex;
-    text-align: center;
-    
-    height: 80vh;
+    align-items: center;
+    justify-content: center;
 }
 .sessao4{
     display: flex;
