@@ -9,12 +9,9 @@
 }
 
 .backgroud{
-    background-color: grey;
+    background-image: url(Backgroud1.png);
 }
 
-.centro{
-    text-align: center;
-}
 .cadastro{
     margin-top: 5%;
     margin-left: 2%;
@@ -63,4 +60,18 @@
 
 .video{
     width: 100%;
+}
+.linhas_s1{
+    height: 23%;
+}
+
+.img_s4{
+    height: 20%;
+}
+
+.space_s4{
+    margin-top: 20%;
+}
+.rodape{
+    background-color: antiquewhite ;
 }
