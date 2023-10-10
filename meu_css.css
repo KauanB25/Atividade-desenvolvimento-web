@@ -10,6 +10,8 @@
 
 .backgroud{
     background-image: url(Backgroud1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .cadastro{
