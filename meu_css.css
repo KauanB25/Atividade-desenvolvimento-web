@@ -18,7 +18,7 @@
 }
 
 .logo{
-    height: 200px;
+    height: 100%;
     position: relative;
     width: 100%;
     display: flex;
@@ -74,4 +74,17 @@
 }
 .rodape{
     background-color: antiquewhite ;
+}
+
+.logo_sm{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    width: 100vh;
+    height: 20%;
+}
+
+.flex{
+    display: flex;
 }
